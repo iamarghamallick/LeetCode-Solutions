@@ -4,7 +4,7 @@ public:
         int n = nums.size();
         int total_count = 0;
 
-        vector<std::unordered_map<int, int>> dp(n);
+        vector<unordered_map<int, int>> dp(n);
 
         for (int i=1; i<n; ++i) {
             for (int j=0; j<i; ++j) {
