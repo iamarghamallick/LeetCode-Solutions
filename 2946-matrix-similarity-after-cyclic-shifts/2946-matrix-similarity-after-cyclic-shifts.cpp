@@ -8,7 +8,7 @@ public:
         k = k % m;
         
         // i-th index of odd indexed rows should match with ((i + k) % n)-th index
-        // i-th index of even indexed rows should match with ((k - i) % n)-th index
+        // i-th index of even indexed rows should match with ((i + n - k) % n)-th index
         for(int i=0; i<n; i++) {
             for(int j=0; j<m; j++) {
                 if(j % 2 == 1) { // odd indexed row
