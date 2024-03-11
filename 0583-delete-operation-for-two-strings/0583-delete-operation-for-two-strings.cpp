@@ -1,6 +1,9 @@
 class Solution {
 public:
     int minDistance(string word1, string word2) {
+        // DP : Mother problem : Longest common subsequence
+        // Answer = (|word1| - |LCS|) + (|word2| - |LCS|)
+        
         int m = word1.size();
         int n = word2.size();
         
