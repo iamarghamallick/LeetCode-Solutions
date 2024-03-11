@@ -26,6 +26,7 @@ public:
             }
         }
         
+        // PRINTING SCS
         string s = "";
         int i = m, j = n;
         
