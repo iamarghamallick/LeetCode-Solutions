@@ -1,16 +1,22 @@
 class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-        
-        int ans = 1;
-        for(int i=0; i<nums.size(); i++) {
-            if(nums[i] == ans)
-                ans++;
-            else if(nums[i] > ans)
-                return ans;
-        }
-        
-        return ans;
+        int n = nums.size();
+        vector<bool> seen(n + 1, false);
+
+        // Mark the elements from nums in the lookup array
+        for (int num : nums)
+            if (num > 0 && num <= n)
+                seen[num ] = true;
+
+        // Iterate through integers 1 to n
+        // return smallest missing positive integer
+        for (int i = 1; i <= n; i++)
+            if (!seen[i])
+                return i;
+
+        // If seen contains all elements 1 to n
+        // the smallest missing positive number is n + 1
+        return n + 1;
     }
 };
