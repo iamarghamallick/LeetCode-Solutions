@@ -13,6 +13,7 @@ public:
                         
         return count;
     }
+    
 //     int countQuadruplets(vector<int>& nums) {
 //         int count = 0;
 //         int n = nums.size();
