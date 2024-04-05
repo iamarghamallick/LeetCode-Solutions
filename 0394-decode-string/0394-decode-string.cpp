@@ -32,6 +32,7 @@ public:
                 
                 reverse(count.begin(), count.end());
                 
+                // converting string count to int num
                 stringstream ss;
                 ss << count;
                 int num = 0;
