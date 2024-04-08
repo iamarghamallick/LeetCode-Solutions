@@ -26,7 +26,6 @@ public:
 
         if(!root)   return 0;
 
-
         long long count = helper(root, targetSum, sum);
         long long left_count = pathSum(root->left, targetSum);
         long long right_count = pathSum(root->right, targetSum);
