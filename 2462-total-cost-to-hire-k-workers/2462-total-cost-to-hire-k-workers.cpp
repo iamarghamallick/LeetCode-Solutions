@@ -14,21 +14,20 @@ public:
         while(k--) {
             if(!leftQ.empty() && !rightQ.empty() && leftQ.top() <= rightQ.top()) {
                 totalCosts += leftQ.top();
-                cout << leftQ.top() << " ";
                 leftQ.pop();
                 if(low <= high)  leftQ.push(costs[low++]);
-            } else if(!leftQ.empty() && !rightQ.empty()) {
+            }
+            else if(!leftQ.empty() && !rightQ.empty()) {
                 totalCosts += rightQ.top();
-                cout << rightQ.top() << " ";
                 rightQ.pop();
                 if(low <= high)  rightQ.push(costs[high--]);
-            } else if(!leftQ.empty()) {
+            }
+            else if(!leftQ.empty()) {
                 totalCosts += leftQ.top();
-                cout << leftQ.top() << " ";
                 leftQ.pop();
-            } else {
+            }
+            else {
                 totalCosts += rightQ.top();
-                cout << rightQ.top() << " ";
                 rightQ.pop();
             }
         }
