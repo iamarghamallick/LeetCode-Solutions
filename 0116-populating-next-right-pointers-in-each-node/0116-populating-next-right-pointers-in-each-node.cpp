@@ -25,17 +25,16 @@ public:
         Node* nxt = root->left;
         
         while(cur && nxt) {
-            cur->left->next = cur->right;
+            cur->left->next = cur->right; // linking each left node with right node from root [1: 2 -> 3]
             
             if(cur->next)
-                cur->right->next = cur->next->left;
+                cur->right->next = cur->next->left; // when at 2, linking 5 with 6 [2: 5 -> 6]
             
             cur = cur->next;
             if(!cur) {
                 cur = nxt;
                 nxt = cur->left;
             }
-                
         }
         
         return root;
