@@ -29,7 +29,6 @@ public:
     
     vector<vector<string>> partition(string s) {
         solve(s, 0);
-        
         return ans;
     }
 };
