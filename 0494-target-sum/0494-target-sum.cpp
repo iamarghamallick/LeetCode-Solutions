@@ -1,37 +1,27 @@
 class Solution {
 public:
-    int findTargetSumWays(vector<int>& nums, int target) {
-        int n = nums.size();
-        int sum = 0;
-        for(auto num: nums)
-            sum += num;
-        
-        // initializing dp array
-        int dp[n + 1][sum + 1];
-        
-        for(int j=0; j<=sum; j++)
-            dp[0][j] = 0;
-        for(int i=0; i<=n; i++)
-            dp[i][0] = 1;
-        
-        // corner cases
-        if (sum < abs(target) || (sum + target) & 1)
-            return 0;
-        
-        // subset sum problem with sum = (target + sum) / 2
-        sum = (target + sum) / 2;
-        
-        for(int i=1; i<=n; i++) {
-            for(int j=0; j<=sum; j++) {
-                if(nums[i-1] <= j) {
-                    // we have two choise
-                    dp[i][j] = dp[i-1][j - nums[i - 1]] + dp[i-1][j];
-                } else {
-                    dp[i][j] = dp[i-1][j];
-                }
+    int totalWays = 0;  // Tracks the total number of ways to reach the target
+
+    int findTargetSumWays(std::vector<int>& nums, int target) {
+        calculateWays(nums, 0, 0, target);
+        return totalWays;
+    }
+
+private:
+    void calculateWays(std::vector<int>& nums, int currentIndex, int currentSum,
+                       int target) {
+        if (currentIndex == nums.size()) {
+            // Check if the current sum matches the target
+            if (currentSum == target) {
+                totalWays++;
             }
+        } else {
+            // Include the current number with a positive sign
+            calculateWays(nums, currentIndex + 1,
+                          currentSum + nums[currentIndex], target);
+            // Include the current number with a negative sign
+            calculateWays(nums, currentIndex + 1,
+                          currentSum - nums[currentIndex], target);
         }
-        
-        return dp[n][sum];
     }
 };
