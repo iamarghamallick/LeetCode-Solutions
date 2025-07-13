@@ -31,4 +31,5 @@ Auto-Updated with LeetHub
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
