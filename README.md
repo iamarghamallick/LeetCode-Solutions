@@ -6,6 +6,7 @@ Auto-Updated with LeetHub
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Memoization
 |  |
@@ -32,4 +33,9 @@ Auto-Updated with LeetHub
 | ------- |
 | [0006-zigzag-conversion](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
