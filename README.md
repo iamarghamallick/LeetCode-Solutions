@@ -27,4 +27,8 @@ Auto-Updated with LeetHub
 |  |
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
