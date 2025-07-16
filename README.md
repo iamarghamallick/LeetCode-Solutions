@@ -8,6 +8,7 @@ Auto-Updated with LeetHub
 | ------- |
 | [0010-regular-expression-matching](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Memoization
 |  |
 | ------- |
@@ -16,6 +17,7 @@ Auto-Updated with LeetHub
 |  |
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Two Pointers
 |  |
 | ------- |
