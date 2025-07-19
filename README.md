@@ -41,6 +41,7 @@ Auto-Updated with LeetHub
 | [0006-zigzag-conversion](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3396-valid-word](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3396-valid-word) |
 ## Recursion
@@ -54,6 +55,7 @@ Auto-Updated with LeetHub
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Heap (Priority Queue)
 |  |
@@ -67,4 +69,8 @@ Auto-Updated with LeetHub
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
