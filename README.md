@@ -18,6 +18,7 @@ Auto-Updated with LeetHub
 ## Array
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -40,6 +41,7 @@ Auto-Updated with LeetHub
 | [0006-zigzag-conversion](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3396-valid-word](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3396-valid-word) |
 ## Recursion
 |  |
@@ -57,4 +59,12 @@ Auto-Updated with LeetHub
 |  |
 | ------- |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
