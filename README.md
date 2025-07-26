@@ -77,6 +77,7 @@ Auto-Updated with LeetHub
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Trie
@@ -113,6 +114,7 @@ Auto-Updated with LeetHub
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Segment Tree
 |  |
@@ -140,8 +142,10 @@ Auto-Updated with LeetHub
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
