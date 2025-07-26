@@ -51,6 +51,7 @@ Auto-Updated with LeetHub
 | [0008-string-to-integer-atoi](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0168-excel-sheet-column-title](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -69,6 +70,7 @@ Auto-Updated with LeetHub
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0168-excel-sheet-column-title](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Heap (Priority Queue)
 |  |
