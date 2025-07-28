@@ -22,6 +22,7 @@ Auto-Updated with LeetHub
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1813-maximum-erasure-value](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -115,6 +116,7 @@ Auto-Updated with LeetHub
 ## Bit Manipulation
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Tree
 |  |
@@ -132,6 +134,7 @@ Auto-Updated with LeetHub
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Prefix Sum
 |  |
@@ -158,4 +161,8 @@ Auto-Updated with LeetHub
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0112-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
