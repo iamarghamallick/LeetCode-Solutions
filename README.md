@@ -7,6 +7,7 @@ Auto-Updated with LeetHub
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0118-pascals-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -20,6 +21,7 @@ Auto-Updated with LeetHub
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1813-maximum-erasure-value](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
