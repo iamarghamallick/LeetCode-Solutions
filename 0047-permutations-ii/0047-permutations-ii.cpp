@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void solve(vector<int> &nums, vector<int> &curr,
+    void permutations(vector<int> &nums, vector<int> &curr,
                 vector<bool> &visited, vector<vector<int>> &ans) {
         if(nums.size() == curr.size()) {
             ans.push_back(curr);
@@ -17,7 +17,7 @@ public:
             visited[i] = true;
             curr.push_back(nums[i]);
 
-            solve(nums, curr, visited, ans);
+            permutations(nums, curr, visited, ans);
 
             curr.pop_back();
             visited[i] = false;
@@ -32,7 +32,7 @@ public:
 
         sort(nums.begin(), nums.end());
 
-        solve(nums, curr, visited, ans);
+        permutations(nums, curr, visited, ans);
 
         return ans;
     }
