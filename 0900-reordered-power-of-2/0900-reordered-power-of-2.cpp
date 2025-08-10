@@ -10,6 +10,9 @@ public:
         }
 
         for(int i=0; i<nums.size(); i++) {
+            if(ans.size() >= 1)
+                return;
+
             if(visited[i])
                 continue;
 
