@@ -22,6 +22,7 @@ Auto-Updated with LeetHub
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -60,6 +61,7 @@ Auto-Updated with LeetHub
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
 ## String
@@ -203,6 +205,7 @@ Auto-Updated with LeetHub
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Database
 |  |
