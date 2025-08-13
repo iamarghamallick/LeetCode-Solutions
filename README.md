@@ -86,6 +86,7 @@ Auto-Updated with LeetHub
 | ------- |
 | [0010-regular-expression-matching](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Auto-Updated with LeetHub
 | [0168-excel-sheet-column-title](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
