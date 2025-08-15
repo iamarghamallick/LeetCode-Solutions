@@ -88,6 +88,7 @@ Auto-Updated with LeetHub
 | [0010-regular-expression-matching](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Auto-Updated with LeetHub
 | [0171-excel-sheet-column-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -154,6 +156,7 @@ Auto-Updated with LeetHub
 | ------- |
 | [0190-reverse-bits](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
