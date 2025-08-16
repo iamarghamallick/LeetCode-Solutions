@@ -110,6 +110,7 @@ Auto-Updated with LeetHub
 | [0342-power-of-four](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [1048-clumsy-factorial](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1048-clumsy-factorial) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 ## Heap (Priority Queue)
@@ -156,6 +157,7 @@ Auto-Updated with LeetHub
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [1048-clumsy-factorial](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1048-clumsy-factorial) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Bit Manipulation
 |  |
@@ -245,6 +247,7 @@ Auto-Updated with LeetHub
 ## Simulation
 |  |
 | ------- |
+| [1048-clumsy-factorial](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1048-clumsy-factorial) |
 | [3790-fruits-into-baskets-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
