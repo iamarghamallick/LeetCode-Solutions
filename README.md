@@ -51,6 +51,7 @@ Auto-Updated with LeetHub
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -76,6 +77,7 @@ Auto-Updated with LeetHub
 | [0008-string-to-integer-atoi](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0125-valid-palindrome](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0344-reverse-string) |
