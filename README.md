@@ -56,6 +56,7 @@ Auto-Updated with LeetHub
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
@@ -106,6 +107,7 @@ Auto-Updated with LeetHub
 | [0826-soup-servings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
