@@ -249,6 +249,7 @@ Auto-Updated with LeetHub
 | [0184-department-highest-salary](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 ## Brainteaser
 |  |
