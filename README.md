@@ -20,10 +20,12 @@ Auto-Updated with LeetHub
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Memoization
 |  |
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Array
 |  |
 | ------- |
@@ -57,6 +59,7 @@ Auto-Updated with LeetHub
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -304,6 +307,7 @@ Auto-Updated with LeetHub
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Probability and Statistics
 |  |
 | ------- |
