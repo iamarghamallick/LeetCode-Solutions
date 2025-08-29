@@ -138,6 +138,7 @@ Auto-Updated with LeetHub
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
