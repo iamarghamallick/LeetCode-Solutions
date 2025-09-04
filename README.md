@@ -149,6 +149,7 @@ Auto-Updated with LeetHub
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3830-find-closest-person](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3830-find-closest-person) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
