@@ -18,32 +18,17 @@ class Solution {
         if(vowels == 0) return false;
         if(vowels % 2 != 0) return true;
 
-        return true;
-
         // at this point there are even # of vowels present in the string
         // alice should remove the substring of max length,
-        // which should contain odd # of vowels,
+        // which contains odd # of vowels,
         // left behind only one vowel with remaining other chars
-
-        // int start = 0;
-        // int end = n-1;
-        // while(!isVowel(arr[start])) start++;
-        // while(!isVowel(arr[end])) end--;
-        // int startLen = end; // index '0' to 'end-1'
-        // int endLen = n - 1 - start; // index 'start+1' to 'n-1'
-
-        // if(startLen > endLen) {
-        //     start = end;
-        //     end = n-1;
-        // } else {
-        //     end = start;
-        //     start = 0;
-        // }
-
-        // n = end - start + 1;
-
-        // at this point there are two choises,
-        // if more than two chars left (one vowel, others consonants),
-        // Bob can choose one 
+        // for Bobs turn -> there are two possibilities
+        // 1. Only one vowel char is left - no move possible, Alice wins
+        // 2. More than one char are left with one vowel,
+        // so Bob can play by selecting the substring with zero vowels, 
+        // then, in the next turn Alice select the entire string, 
+        // leaving an empty string for Bob, so Alice wins in both senarios
+    
+        return true;
     }
 }
