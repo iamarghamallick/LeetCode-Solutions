@@ -77,6 +77,7 @@ Auto-Updated with LeetHub
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Auto-Updated with LeetHub
 | [2887-sort-vowels-in-a-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Recursion
 |  |
@@ -209,6 +211,7 @@ Auto-Updated with LeetHub
 | [2689-rearranging-fruits](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [3678-design-task-manager](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Function
 |  |
@@ -368,6 +371,7 @@ Auto-Updated with LeetHub
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -405,4 +409,5 @@ Auto-Updated with LeetHub
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
