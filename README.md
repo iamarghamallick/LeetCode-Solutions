@@ -44,6 +44,7 @@ Auto-Updated with LeetHub
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -99,6 +100,7 @@ Auto-Updated with LeetHub
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0611-valid-triangle-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -112,6 +114,7 @@ Auto-Updated with LeetHub
 | [0047-permutations-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0611-valid-triangle-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -174,6 +177,7 @@ Auto-Updated with LeetHub
 | [0830-largest-triangle-area](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1048-clumsy-factorial](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1048-clumsy-factorial) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
