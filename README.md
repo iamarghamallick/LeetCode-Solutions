@@ -38,6 +38,7 @@ Auto-Updated with LeetHub
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0120-triangle) |
+| [0407-trapping-rain-water-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0679-24-game) |
@@ -200,6 +201,7 @@ Auto-Updated with LeetHub
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -338,6 +340,7 @@ Auto-Updated with LeetHub
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0407-trapping-rain-water-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -400,6 +403,7 @@ Auto-Updated with LeetHub
 | ------- |
 | [0036-valid-sudoku](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0407-trapping-rain-water-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
