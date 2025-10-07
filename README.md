@@ -55,6 +55,7 @@ Auto-Updated with LeetHub
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -111,6 +112,7 @@ Auto-Updated with LeetHub
 | [0611-valid-triangle-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
+| [1612-avoid-flood-in-the-city](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -208,6 +210,7 @@ Auto-Updated with LeetHub
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -241,6 +244,7 @@ Auto-Updated with LeetHub
 | [0940-fruit-into-baskets](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1612-avoid-flood-in-the-city](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
@@ -331,6 +335,7 @@ Auto-Updated with LeetHub
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0611-valid-triangle-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
