@@ -81,6 +81,7 @@ Auto-Updated with LeetHub
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -327,6 +328,7 @@ Auto-Updated with LeetHub
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Divide and Conquer
