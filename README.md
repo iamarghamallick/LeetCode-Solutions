@@ -16,6 +16,7 @@ Auto-Updated with LeetHub
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -61,6 +62,7 @@ Auto-Updated with LeetHub
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1813-maximum-erasure-value](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -134,6 +136,7 @@ Auto-Updated with LeetHub
 | [1018-largest-perimeter-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -327,6 +330,7 @@ Auto-Updated with LeetHub
 | [0316-remove-duplicate-letters](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1048-clumsy-factorial](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1048-clumsy-factorial) |
 | [1628-count-submatrices-with-all-ones](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Bit Manipulation
@@ -522,6 +526,7 @@ Auto-Updated with LeetHub
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Geometry
 |  |
 | ------- |
