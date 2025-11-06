@@ -122,6 +122,7 @@ Auto-Updated with LeetHub
 | [3797-design-spreadsheet](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -274,6 +275,7 @@ Auto-Updated with LeetHub
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -286,6 +288,7 @@ Auto-Updated with LeetHub
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3863-power-grid-maintenance](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -324,6 +327,7 @@ Auto-Updated with LeetHub
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Function
 |  |
@@ -446,6 +450,7 @@ Auto-Updated with LeetHub
 | [0417-pacific-atlantic-water-flow](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
 | ------- |
@@ -510,6 +515,7 @@ Auto-Updated with LeetHub
 | [3790-fruits-into-baskets-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -587,9 +593,14 @@ Auto-Updated with LeetHub
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
