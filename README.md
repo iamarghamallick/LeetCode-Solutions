@@ -53,6 +53,7 @@ Auto-Updated with LeetHub
 | [0498-diagonal-traverse](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0794-swim-in-rising-water](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
