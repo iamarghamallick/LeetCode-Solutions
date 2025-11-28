@@ -325,6 +325,7 @@ Auto-Updated with LeetHub
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
@@ -430,6 +431,7 @@ Auto-Updated with LeetHub
 | [0112-path-sum](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Segment Tree
 |  |
 | ------- |
