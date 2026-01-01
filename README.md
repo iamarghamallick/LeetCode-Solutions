@@ -53,6 +53,7 @@ Auto-Updated with LeetHub
 | [0036-valid-sudoku](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0066-plus-one](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0120-triangle) |
@@ -312,6 +313,7 @@ Auto-Updated with LeetHub
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
