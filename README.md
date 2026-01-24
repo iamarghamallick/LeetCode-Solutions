@@ -102,6 +102,7 @@ Auto-Updated with LeetHub
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -206,6 +207,7 @@ Auto-Updated with LeetHub
 | [0165-compare-version-numbers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -225,6 +227,7 @@ Auto-Updated with LeetHub
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -248,6 +251,7 @@ Auto-Updated with LeetHub
 | [1018-largest-perimeter-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
