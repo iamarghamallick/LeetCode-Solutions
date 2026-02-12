@@ -345,6 +345,7 @@ Auto-Updated with LeetHub
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -521,6 +522,7 @@ Auto-Updated with LeetHub
 | [3623-count-number-of-trapezoids-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3678-design-task-manager) |
+| [3713-longest-balanced-substring-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -629,6 +631,7 @@ Auto-Updated with LeetHub
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3713-longest-balanced-substring-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Prefix Sum
 |  |
@@ -835,6 +838,7 @@ Auto-Updated with LeetHub
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Monotonic Stack
 |  |
