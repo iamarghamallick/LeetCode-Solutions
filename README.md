@@ -305,6 +305,7 @@ Auto-Updated with LeetHub
 | [0008-string-to-integer-atoi](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -373,6 +374,7 @@ Auto-Updated with LeetHub
 | ------- |
 | [0012-integer-to-roman](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -575,6 +577,7 @@ Auto-Updated with LeetHub
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -766,6 +769,7 @@ Auto-Updated with LeetHub
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1048-clumsy-factorial](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1048-clumsy-factorial) |
 | [1642-water-bottles](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1642-water-bottles) |
