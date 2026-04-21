@@ -897,6 +897,7 @@ Auto-Updated with LeetHub
 | [1258-article-views-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1667-fix-names-in-a-table](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1827-invalid-tweets) |
