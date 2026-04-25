@@ -73,6 +73,7 @@ Auto-Updated with LeetHub
 | [0011-container-with-most-water](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0047-permutations-ii) |
@@ -279,6 +280,7 @@ Auto-Updated with LeetHub
 | [0011-container-with-most-water](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
