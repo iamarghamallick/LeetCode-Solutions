@@ -80,6 +80,7 @@ Auto-Updated with LeetHub
 | [0118-pascals-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0407-trapping-rain-water-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -275,6 +276,7 @@ Auto-Updated with LeetHub
 | [0125-valid-palindrome](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
@@ -473,6 +475,7 @@ Auto-Updated with LeetHub
 | [0166-fraction-to-recurring-decimal](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0342-power-of-four) |
