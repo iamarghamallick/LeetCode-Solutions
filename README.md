@@ -7,6 +7,7 @@ Auto-Updated with LeetHub
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0120-triangle) |
@@ -71,6 +72,7 @@ Auto-Updated with LeetHub
 | [0036-valid-sudoku](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -807,6 +809,7 @@ Auto-Updated with LeetHub
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0761-special-binary-string) |
