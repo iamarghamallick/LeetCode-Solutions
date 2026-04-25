@@ -461,6 +461,7 @@ Auto-Updated with LeetHub
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0326-power-of-three) |
@@ -481,6 +482,7 @@ Auto-Updated with LeetHub
 | ------- |
 | [0012-integer-to-roman](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
