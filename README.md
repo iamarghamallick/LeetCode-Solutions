@@ -11,6 +11,7 @@ Auto-Updated with LeetHub
 | [0085-maximal-rectangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0120-triangle) |
+| [0152-maximum-product-subarray](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0474-ones-and-zeroes](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0799-champagne-tower) |
@@ -78,6 +79,7 @@ Auto-Updated with LeetHub
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0120-triangle) |
+| [0152-maximum-product-subarray](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0407-trapping-rain-water-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
