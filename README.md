@@ -196,6 +196,7 @@ Auto-Updated with LeetHub
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-range-product-queries-of-powers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
+| [2540-minimum-common-value](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
@@ -320,6 +321,7 @@ Auto-Updated with LeetHub
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3643-flip-square-submatrix-vertically](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
@@ -683,6 +685,7 @@ Auto-Updated with LeetHub
 | [2274-keep-multiplying-found-values-by-two](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [2540-minimum-common-value](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
@@ -912,6 +915,7 @@ Auto-Updated with LeetHub
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2540-minimum-common-value](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
