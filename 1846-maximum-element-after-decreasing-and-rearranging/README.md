@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/">1846. Maximum Element After Decreasing and Rearranging</a></h2><h3>Medium</h3><hr><div><p>You are given an array of positive integers <code>arr</code>. Perform some operations (possibly none) on <code>arr</code> so that it satisfies these conditions:</p>
+<h2><a href="https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging">1956. Maximum Element After Decreasing and Rearranging</a></h2><h3>Medium</h3><hr><p>You are given an array of positive integers <code>arr</code>. Perform some operations (possibly none) on <code>arr</code> so that it satisfies these conditions:</p>
 
 <ul>
 	<li>The value of the <strong>first</strong> element in <code>arr</code> must be <code>1</code>.</li>
@@ -17,7 +17,8 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> arr = [2,2,1,2,1]
+<pre>
+<strong>Input:</strong> arr = [2,2,1,2,1]
 <strong>Output:</strong> 2
 <strong>Explanation:</strong> 
 We can satisfy the conditions by rearranging <code>arr</code> so it becomes <code>[1,2,2,2,1]</code>.
@@ -26,7 +27,8 @@ The largest element in <code>arr</code> is 2.
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> arr = [100,1,1000]
+<pre>
+<strong>Input:</strong> arr = [100,1,1000]
 <strong>Output:</strong> 3
 <strong>Explanation:</strong> 
 One possible way to satisfy the conditions is by doing the following:
@@ -39,7 +41,8 @@ The largest element in <code>arr is 3.</code>
 
 <p><strong class="example">Example 3:</strong></p>
 
-<pre><strong>Input:</strong> arr = [1,2,3,4,5]
+<pre>
+<strong>Input:</strong> arr = [1,2,3,4,5]
 <strong>Output:</strong> 5
 <strong>Explanation:</strong> The array already satisfies the conditions, and the largest element is 5.
 </pre>
@@ -51,4 +54,3 @@ The largest element in <code>arr is 3.</code>
 	<li><code>1 &lt;= arr.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= arr[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
-</div>
