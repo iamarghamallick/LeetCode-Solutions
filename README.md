@@ -24,6 +24,7 @@ Auto-Updated with LeetHub
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -133,6 +134,7 @@ Auto-Updated with LeetHub
 | [1262-greatest-sum-divisible-by-three](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
@@ -1212,6 +1214,7 @@ Auto-Updated with LeetHub
 | [0794-swim-in-rising-water](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
