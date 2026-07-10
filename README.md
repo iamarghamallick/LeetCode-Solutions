@@ -59,6 +59,7 @@ Auto-Updated with LeetHub
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -283,6 +284,7 @@ Auto-Updated with LeetHub
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -368,6 +370,7 @@ Auto-Updated with LeetHub
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -411,6 +414,7 @@ Auto-Updated with LeetHub
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -470,6 +474,7 @@ Auto-Updated with LeetHub
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3531-count-covered-buildings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -908,6 +913,7 @@ Auto-Updated with LeetHub
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -1058,6 +1064,7 @@ Auto-Updated with LeetHub
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-network-recovery-pathways](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -1379,6 +1386,7 @@ Auto-Updated with LeetHub
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
