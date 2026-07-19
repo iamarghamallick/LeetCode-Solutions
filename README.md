@@ -390,6 +390,7 @@ Auto-Updated with LeetHub
 | [0759-set-intersection-size-at-least-two](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
@@ -521,6 +522,7 @@ Auto-Updated with LeetHub
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -889,6 +891,7 @@ Auto-Updated with LeetHub
 | [0144-binary-tree-preorder-traversal](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1048-clumsy-factorial](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1048-clumsy-factorial) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1321,6 +1324,7 @@ Auto-Updated with LeetHub
 | ------- |
 | [0085-maximal-rectangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
