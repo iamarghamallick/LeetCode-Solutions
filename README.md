@@ -490,6 +490,7 @@ Auto-Updated with LeetHub
 | [3433-count-mentions-per-user](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3531-count-covered-buildings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -586,6 +587,7 @@ Auto-Updated with LeetHub
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3606-coupon-code-validator](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
@@ -1496,6 +1498,7 @@ Auto-Updated with LeetHub
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Topological Sort
 |  |
 | ------- |
