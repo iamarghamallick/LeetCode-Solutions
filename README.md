@@ -15,6 +15,7 @@ Auto-Updated with LeetHub
 | [0152-maximum-product-subarray](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0396-rotate-function](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0799-champagne-tower) |
@@ -111,6 +112,7 @@ Auto-Updated with LeetHub
 | [0407-trapping-rain-water-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -614,6 +616,7 @@ Auto-Updated with LeetHub
 | [0231-power-of-two](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Linked List
 |  |
@@ -645,6 +648,7 @@ Auto-Updated with LeetHub
 | [0326-power-of-three](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -1387,6 +1391,7 @@ Auto-Updated with LeetHub
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
