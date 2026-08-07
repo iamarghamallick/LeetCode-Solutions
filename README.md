@@ -435,6 +435,7 @@ Auto-Updated with LeetHub
 | [3074-apple-redistribution-into-boxes](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -593,6 +594,7 @@ Auto-Updated with LeetHub
 | [3120-count-the-number-of-special-characters-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3396-valid-word](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -710,6 +712,7 @@ Auto-Updated with LeetHub
 | [3336-water-bottles-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -1201,6 +1204,7 @@ Auto-Updated with LeetHub
 | [1980-find-unique-binary-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Database
 |  |
 | ------- |
@@ -1416,6 +1420,7 @@ Auto-Updated with LeetHub
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3312-sorted-gcd-pair-queries](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
