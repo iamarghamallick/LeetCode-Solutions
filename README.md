@@ -25,6 +25,7 @@ Auto-Updated with LeetHub
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -139,6 +140,7 @@ Auto-Updated with LeetHub
 | [1018-largest-perimeter-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -674,6 +676,7 @@ Auto-Updated with LeetHub
 | [1015-smallest-integer-divisible-by-k](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1048-clumsy-factorial](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1048-clumsy-factorial) |
+| [1140-stone-game-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1390-four-divisors) |
@@ -1053,6 +1056,7 @@ Auto-Updated with LeetHub
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1140-stone-game-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -1414,6 +1418,7 @@ Auto-Updated with LeetHub
 | ------- |
 | [0486-predict-the-winner](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
@@ -1546,4 +1551,12 @@ Auto-Updated with LeetHub
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
