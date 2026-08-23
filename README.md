@@ -437,6 +437,7 @@ Auto-Updated with LeetHub
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -586,6 +587,7 @@ Auto-Updated with LeetHub
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-jump-game-vii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1927-sum-game](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -713,6 +715,7 @@ Auto-Updated with LeetHub
 | [1840-maximum-building-height](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -1459,6 +1462,7 @@ Auto-Updated with LeetHub
 | [1406-stone-game-iii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
