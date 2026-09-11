@@ -309,6 +309,7 @@ Auto-Updated with LeetHub
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -672,6 +673,7 @@ Auto-Updated with LeetHub
 | [0342-power-of-four](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -934,6 +936,7 @@ Auto-Updated with LeetHub
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -1115,6 +1118,7 @@ Auto-Updated with LeetHub
 | [3345-smallest-divisible-digit-product-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3483-unique-3-digit-even-numbers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
