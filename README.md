@@ -133,6 +133,7 @@ Auto-Updated with LeetHub
 | [0759-set-intersection-size-at-least-two](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
+| [0835-image-overlap](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -1405,6 +1406,7 @@ Auto-Updated with LeetHub
 | [0417-pacific-atlantic-water-flow](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1260-shift-2d-grid](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
