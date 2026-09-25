@@ -510,6 +510,7 @@ Auto-Updated with LeetHub
 | [0761-special-binary-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1096-brace-expansion-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -602,6 +603,7 @@ Auto-Updated with LeetHub
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -917,6 +919,7 @@ Auto-Updated with LeetHub
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1331-rank-transform-of-an-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -1043,6 +1046,7 @@ Auto-Updated with LeetHub
 | [0316-remove-duplicate-letters](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1048-clumsy-factorial](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1048-clumsy-factorial) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1301,6 +1305,7 @@ Auto-Updated with LeetHub
 | [0417-pacific-atlantic-water-flow](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1096-brace-expansion-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
@@ -1327,6 +1332,7 @@ Auto-Updated with LeetHub
 | [0401-binary-watch](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
+| [1096-brace-expansion-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
