@@ -125,6 +125,7 @@ Auto-Updated with LeetHub
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0396-rotate-function](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -512,6 +513,7 @@ Auto-Updated with LeetHub
 | [0016-3sum-closest](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0217-contains-duplicate](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
@@ -934,6 +936,7 @@ Auto-Updated with LeetHub
 | [0160-intersection-of-two-linked-lists](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0756-pyramid-transition-matrix](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
