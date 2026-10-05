@@ -110,6 +110,7 @@ Auto-Updated with LeetHub
 | [0018-4sum](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0047-permutations-ii) |
@@ -1261,6 +1262,7 @@ Auto-Updated with LeetHub
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
