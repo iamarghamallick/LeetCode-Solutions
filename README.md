@@ -588,6 +588,7 @@ Auto-Updated with LeetHub
 | [0012-integer-to-roman](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -922,6 +923,7 @@ Auto-Updated with LeetHub
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -1030,6 +1032,7 @@ Auto-Updated with LeetHub
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0867-new-21-game](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
