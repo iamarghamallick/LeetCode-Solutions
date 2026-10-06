@@ -1082,6 +1082,7 @@ Auto-Updated with LeetHub
 | [0032-longest-valid-parentheses](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
@@ -1592,6 +1593,7 @@ Auto-Updated with LeetHub
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -1626,6 +1628,7 @@ Auto-Updated with LeetHub
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [1622-fancy-sequence](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [2023-design-movie-rental-system](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
