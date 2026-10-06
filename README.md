@@ -597,6 +597,7 @@ Auto-Updated with LeetHub
 | [0022-generate-parentheses](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -742,6 +743,7 @@ Auto-Updated with LeetHub
 | ------- |
 | [0012-integer-to-roman](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -1423,6 +1425,7 @@ Auto-Updated with LeetHub
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
