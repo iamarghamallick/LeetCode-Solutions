@@ -756,6 +756,7 @@ Auto-Updated with LeetHub
 | [0189-rotate-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0396-rotate-function) |
@@ -1438,6 +1439,7 @@ Auto-Updated with LeetHub
 | ------- |
 | [0043-multiply-strings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
@@ -1624,6 +1626,7 @@ Auto-Updated with LeetHub
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
