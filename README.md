@@ -607,6 +607,7 @@ Auto-Updated with LeetHub
 | [0168-excel-sheet-column-title](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0474-ones-and-zeroes](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
@@ -1359,6 +1360,7 @@ Auto-Updated with LeetHub
 | [0111-minimum-depth-of-binary-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
@@ -1389,6 +1391,7 @@ Auto-Updated with LeetHub
 | [0039-combination-sum](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0257-binary-tree-paths](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
