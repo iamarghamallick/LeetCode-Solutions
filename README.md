@@ -611,6 +611,7 @@ Auto-Updated with LeetHub
 | [0168-excel-sheet-column-title](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -958,6 +959,7 @@ Auto-Updated with LeetHub
 | [0202-happy-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0756-pyramid-transition-matrix](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
