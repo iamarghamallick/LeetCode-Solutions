@@ -1302,6 +1302,7 @@ Auto-Updated with LeetHub
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0278-first-bad-version](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0611-valid-triangle-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -1815,4 +1816,8 @@ Auto-Updated with LeetHub
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
