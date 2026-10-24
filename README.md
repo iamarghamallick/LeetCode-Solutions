@@ -691,6 +691,7 @@ Auto-Updated with LeetHub
 | [2213-longest-substring-of-one-repeating-character](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2429-design-a-food-rating-system](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -839,6 +840,7 @@ Auto-Updated with LeetHub
 | [2288-count-operations-to-obtain-zero](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2409-count-days-spent-together](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
