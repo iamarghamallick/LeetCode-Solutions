@@ -1493,6 +1493,7 @@ Auto-Updated with LeetHub
 | [1153-product-sales-analysis-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1153-product-sales-analysis-i) |
 | [1251-average-selling-price](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1258-article-views-i) |
+| [1393-capital-gainloss](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1393-capital-gainloss) |
 | [1415-students-and-examinations](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
