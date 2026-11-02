@@ -138,6 +138,7 @@ Auto-Updated with LeetHub
 | [0407-trapping-rain-water-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
@@ -544,6 +545,7 @@ Auto-Updated with LeetHub
 | [0018-4sum](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
@@ -801,6 +803,7 @@ Auto-Updated with LeetHub
 | [0342-power-of-four](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0679-24-game) |
