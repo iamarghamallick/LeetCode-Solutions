@@ -172,6 +172,7 @@ Auto-Updated with LeetHub
 | [1260-shift-2d-grid](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -972,6 +973,7 @@ Auto-Updated with LeetHub
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1461,6 +1463,7 @@ Auto-Updated with LeetHub
 | [1096-brace-expansion-ii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1615,6 +1618,7 @@ Auto-Updated with LeetHub
 | [0840-magic-squares-in-grid](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1254-number-of-closed-islands](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1674,6 +1678,7 @@ Auto-Updated with LeetHub
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1189-maximum-number-of-balloons](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2029-stone-game-ix](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1833,6 +1838,7 @@ Auto-Updated with LeetHub
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
