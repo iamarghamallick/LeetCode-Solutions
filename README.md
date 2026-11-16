@@ -718,6 +718,7 @@ Auto-Updated with LeetHub
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
@@ -1583,6 +1584,7 @@ Auto-Updated with LeetHub
 | [2161-partition-array-according-to-given-pivot](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/iamarghamallick/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
